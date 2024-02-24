@@ -1,0 +1,19 @@
+---
+title: "st2195_assignment_1"
+author: "Alejandro Olguin"
+date: "2024-02-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document with the same code written in the R file of this same folder.
+
+```{r numbers}
+print(1:10)
+```
+
